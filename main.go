@@ -3,6 +3,8 @@ package main
 // func main() {
 // 	schooling := 6
 // 	fmt.Println("Schooling:", schooling)
+ // schooling = schooling + 1
+// fmt.Println(schooling)
 // }
 // //задание 2
 
@@ -10,6 +12,8 @@ package main
 // 	var name string
 // 	name = "Vladislav"
 // 	fmt.Println("name:", name)
+ // name = "Danabek"
+    // fmt.Println(name)
 
 // }
 // // задание 3
